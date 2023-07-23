@@ -6,5 +6,7 @@ A mod for "Super Daryl Deluxe", providing an in-game menu to teleport to any zon
 Download the "SDD-TeleportMenu", and extract the contents into the "Super Daryl Deluxe" game directory.
 Then, run the ModManager executable.
 
+You can access the Teleport menu in game by pressing "P" on the keyboard.
+
 # Thanks
 I want to thank Kaito Kid for all of their assistance, as well as others from the Archipelago.gg Discord. This mod would not be possible without them.
